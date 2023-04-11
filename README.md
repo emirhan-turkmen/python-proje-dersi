@@ -1,0 +1,1 @@
+patika python eğitimi projesi
