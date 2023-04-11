@@ -23,7 +23,11 @@ print(liste1)
 # soru 2
 
 def reverse_list(n):
-    n = n[::-1]
+    n = n[::-1] # listeyi tersten yazdık 
+    """
+    tersten yazılı listenin elemanlarında 
+    gezerek liste olan elemanlarıda terstenyazdık
+    """
     n = [i[::-1] for i in n]
     return n
 
